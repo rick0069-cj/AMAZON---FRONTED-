@@ -1,12 +1,15 @@
-#🛒 Amazon Clone (Frontend Only)
+# 🛒 Amazon Clone (Frontend Only)
+
+
 
 
 A static clone of the Amazon homepage built with pure HTML and CSS — responsive, clean, and closely resembles the real UI.
 
-#📌 Description
-This is a frontend-only Amazon homepage clone made using vanilla HTML and CSS. It's built as a learning project to practice layout design, responsiveness, and styling — without any JavaScript or backend functionality.
+# 📌 Description
+This is a frontend-only Amazon homepage clone made using vanilla HTML and CSS.
+It is built as a learning project to practice layout design, responsiveness, and styling — with no JavaScript or backend functionality.
 
-#🚀 Features
+# 🚀 Features
 ✅ Amazon-style navigation bar
 
 ✅ Search bar and category selector
@@ -19,17 +22,16 @@ This is a frontend-only Amazon homepage clone made using vanilla HTML and CSS. I
 
 ✅ Fully responsive layout (basic responsiveness)
 
-❌ No functionality (cart, login, JS, etc.)
+❌ No functionality (cart, login, JavaScript, etc.)
 
-
-
-#🧠 Technologies Used
+#  🧠 Technologies Used
 HTML5
 
 CSS3 (Flexbox + Grid)
 
-#📁 Folder Structure
+# 📁 Folder Structure
 php
+
 
 amazon-clone/
 ├── index.html              # Main HTML file
@@ -37,32 +39,36 @@ amazon-clone/
 ├── assets/                 # Images, logos, etc.
 │   └── ...
 └── README.md
-🔧 How to Run
-Clone the repository:
 
-#bash
+
+
+🔧 How to Run
+1️⃣ Clone the repository
+bash
 
 git clone https://github.com/your-username/amazon-clone.git
 cd amazon-clone
-Open index.html in any web browser:
+2️⃣ Open index.html in your browser
+You can double-click index.html to open it.
 
-bash
+Or use VS Code Live Server:
 
-# For VSCode users
+# bash
+
 code .
-# Then right-click index.html and select 'Open with Live Server'
-Or just double-click the index.html file to open it in your browser.
+Then right-click on index.html and select "Open with Live Server".
+# 
+📌 Note
+🚫 This is not a functional site — it’s only for UI practice.
 
-#📌 Note
-This is not a functional site — it's for practice and UI design only.
+🧠 No JavaScript or dynamic behavior is implemented.
 
-No JavaScript is used. No dynamic behavior implemented.
+🖥️ Designed to resemble the desktop version of Amazon.
 
-Designed to look similar to the desktop version of Amazon.
-
-#📄 License
+# 📄 License
 This project is licensed under the MIT License.
 
-✍️ Author
+# ✍️ Author
 Sumit Kumar
-🔗 GitHub
+🔗 GitHub (Replace with your actual profile link)
+
